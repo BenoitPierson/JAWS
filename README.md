@@ -1,2 +1,2 @@
 # JAWS
-Statistical sharks'attacks analysis
+Objective : In this notebook, we present a quick statistical analysis of worldwide shark attacks since 2000. The dataset has been extracted from Kaggle (URL: https://www.kaggle.com/teajay/global-shark-attacks). We will see the places where most attacks happen, fatality rate of attacks, sharks species involved and context of attacks (victim's activity). At the end of this notebook, we will focus on the Reunion Island and attacks happening there.
